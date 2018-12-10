@@ -1,4 +1,4 @@
-Title:MNIST database
+Title: MNIST database
 Description: Classification of the number using a trained network 
 ---
 >This document works with the image:
